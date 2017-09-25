@@ -5,7 +5,7 @@
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-   1. Definitions.
+   1. Definitions.dawdawdawdwadwadwdwd
 
       "License" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
@@ -204,129 +204,129 @@
    
    ======================================================================
    
-                                        ApacheÐí¿ÉÖ¤ 
-                                    °æ±¾ 2.0£¬2004Äê1ÔÂ
+                                        Apache\D0\ED\BF\C9Ö¤ 
+                                    \B0æ±¾ 2.0\A3\AC2004\C4\EA1\D4\C2
                                 http://www.apache.org/licenses/
 									
-   Ê¹ÓÃ¡¢ÖØÉú³É¼°·Ö·¢µÄÊõÓïºÍÌõ¼þ£º
+   Ê¹\D3Ã¡\A2\D6\D8\C9\FA\B3É¼\B0\B7Ö·\A2\B5\C4\CA\F5\D3\EF\BA\CD\CC\F5\BC\FE\A3\BA
  
-   1.¶¨Òå
+   1.\B6\A8\D2\E5
  
-     "Ðí¿ÉÖ¤"ÊÇÖ¸¸ù¾Ý±¾ÎÄµµµÚ1µ½µÚ9²¿·Ö¹ØÓÚÊ¹ÓÃ¡¢ÖØÉú³ÉºÍ·Ö·¢µÄÊõÓïºÍÌõ¼þ¡£
+     "\D0\ED\BF\C9Ö¤"\CA\C7Ö¸\B8\F9\BEÝ±\BE\CEÄµ\B5\B5\DA1\B5\BD\B5\DA9\B2\BF\B7Ö¹\D8\D3\DAÊ¹\D3Ã¡\A2\D6\D8\C9\FA\B3ÉºÍ·Ö·\A2\B5\C4\CA\F5\D3\EF\BA\CD\CC\F5\BC\FE\A1\A3
  
-     "Ðí¿ÉÖ¤°ä·¢Õß"ÊÇÖ¸°æÈ¨ËùÓÐÕß»òÕßÓÉ°æÈ¨ËùÓÐÕßÅú×¼µÄÊÚÈ¨Ðí¿ÉÖ¤µÄÊµÌå¡£
+     "\D0\ED\BF\C9Ö¤\B0ä·¢\D5\DF"\CA\C7Ö¸\B0\E6È¨\CB\F9\D3\D0\D5ß»\F2\D5\DF\D3É°\E6È¨\CB\F9\D3\D0\D5\DF\C5\FA×¼\B5\C4\CA\DAÈ¨\D0\ED\BF\C9Ö¤\B5\C4Êµ\CCå¡£
  
-     "·¨ÂÉÊµÌå"ÊÇÖ¸ÊµÊ©ÊµÌåºÍ½øÐÐ¿ØÖÆµÄËùÓÐÆäËüÊµÌåÊÜ¸ÃÊµÌå¿ØÖÆ£¬»òÕßÊÜ¸ÃÊµÌå¼¯ÖÐ¿ØÖÆ¡£
-     ¸ù¾Ý´Ë¶¨Òå£¬"¿ØÖÆ"ÊÇÖ¸(i)ÈÃÎÞÂÛÊÇ·ñÇ©¶©Ð­ÒéµÄÉÏÊöÊµÌå£¬½øÐÐÖ¸µ¼»ò¹ÜÀíµÄÖ±½ÓÈ¨Àû»ò¼ä½ÓÈ¨Àû£¬
-     »òÕß(ii)ÓµÓÐ°Ù·ÖÖ®ÎåÊ®(50%)»òÒÔÉÏÒÑ·¢ÐÐ¹ÉÆ±µÄËùÓÐÕß£¬»òÕß(iii)ÉÏÊöÊµÌåµÄÊµÈ¨ËùÓÐÕß¡£
+     "\B7\A8\C2\C9Êµ\CC\E5"\CA\C7Ö¸ÊµÊ©Êµ\CC\E5\BAÍ½\F8\D0Ð¿\D8\D6Æµ\C4\CB\F9\D3\D0\C6\E4\CB\FCÊµ\CC\E5\CAÜ¸\C3Êµ\CC\E5\BF\D8\D6Æ£\AC\BB\F2\D5\DF\CAÜ¸\C3Êµ\CCå¼¯\D6Ð¿\D8\D6Æ¡\A3
+     \B8\F9\BEÝ´Ë¶\A8\D2å£¬"\BF\D8\D6\C6"\CA\C7Ö¸(i)\C8\C3\CE\DE\C2\DB\CAÇ·\F1Ç©\B6\A9Ð­\D2\E9\B5\C4\C9\CF\CA\F6Êµ\CCå£¬\BD\F8\D0\D0Ö¸\B5\BC\BB\F2\B9\DC\C0\ED\B5\C4Ö±\BD\D3È¨\C0\FB\BB\F2\BC\E4\BD\D3È¨\C0\FB\A3\AC
+     \BB\F2\D5\DF(ii)Óµ\D3Ð°Ù·\D6Ö®\CE\E5Ê®(50%)\BB\F2\D2\D4\C9\CF\D2Ñ·\A2\D0Ð¹\C9Æ±\B5\C4\CB\F9\D3\D0\D5ß£\AC\BB\F2\D5\DF(iii)\C9\CF\CA\F6Êµ\CC\E5\B5\C4ÊµÈ¨\CB\F9\D3\D0\D5ß¡\A3
  
-     "ÓÃ»§"(»ò"ÓÃ»§µÄ")ÊÇÖ¸ÐÐÊ¹±¾Ðí¿ÉÖ¤ËùÊÚÓèÈ¨ÏÞµÄ¸öÈË»ò·¨ÂÉÊµÌå¡£
+     "\D3Ã»\A7"(\BB\F2"\D3Ã»\A7\B5\C4")\CA\C7Ö¸\D0\D0Ê¹\B1\BE\D0\ED\BF\C9Ö¤\CB\F9\CA\DA\D3\E8È¨\CFÞµÄ¸\F6\C8Ë»\F2\B7\A8\C2\C9Êµ\CCå¡£
  
-     "Ô´³ÌÐò"ÐÎÊ½ÊÇÖ¸¶Ô°üº¬µ«²»ÏÞÖÆÈí¼þÔ´´úÂë¡¢ÎÄµµÔ´³ÌÐòºÍÅäÖÃÎÄ¼þ½øÐÐÐÞ¸ÄµÄÊ×Ñ¡ÐÎÊ½¡£
+     "Ô´\B3\CC\D0\F2"\D0\CEÊ½\CA\C7Ö¸\B6Ô°\FC\BA\AC\B5\AB\B2\BB\CF\DE\D6\C6\C8\ED\BC\FEÔ´\B4\FA\C2ë¡¢\CEÄµ\B5Ô´\B3\CC\D0\F2\BA\CD\C5\E4\D6\C3\CEÄ¼\FE\BD\F8\D0\D0\D0Þ¸Äµ\C4\CA\D7Ñ¡\D0\CEÊ½\A1\A3
  
-     "Ä¿±ê"ÐÎÊ½ÊÇÖ¸¶ÔÔ´³ÌÐòÐÎÊ½½øÐÐ»úÐµ×ª»»»ò·­ÒëµÄÈÎºÎÐÎÊ½£¬°üÀ¨µ«²»ÏÞÓÚ¶Ô±àÒëµÄÄ¿±ê´úÂë£¬
-     Éú³ÉµÄÎÄ¼þÒÔ¼°×ª»»ÎªÆäËüÃ½ÌåÀàÐÍ¡£
+     "Ä¿\B1\EA"\D0\CEÊ½\CA\C7Ö¸\B6\D4Ô´\B3\CC\D0\F2\D0\CEÊ½\BD\F8\D0Ð»\FAÐµ×ª\BB\BB\BB\F2\B7\AD\D2\EB\B5\C4\C8Îº\CE\D0\CEÊ½\A3\AC\B0\FC\C0\A8\B5\AB\B2\BB\CF\DE\D3Ú¶Ô±\E0\D2\EB\B5\C4Ä¿\B1\EA\B4\FA\C2ë£¬
+     \C9\FA\B3Éµ\C4\CEÄ¼\FE\D2Ô¼\B0×ª\BB\BBÎª\C6\E4\CB\FCÃ½\CC\E5\C0\E0\D0Í¡\A3
  
-     "×÷Æ·"ÊÇÖ¸¸ù¾Ý±¾Ðí¿ÉÖ¤ËùÖÆ×÷µÄÔ´³ÌÐòÐÎÊ½»òÄ¿±êÐÎÊ½µÄÖø×÷£¬ÔÚÖø×÷ÖÐ°üº¬µÄ»ò¸½¼ÓµÄ°æÈ¨Í¨Öª
-     (ÔÚÏÂÃæ¸½Â¼ÖÐÌá¹©ÁËÒ»¸öÊ¾Àý)¡£
+     "\D7\F7Æ·"\CA\C7Ö¸\B8\F9\BEÝ±\BE\D0\ED\BF\C9Ö¤\CB\F9\D6\C6\D7\F7\B5\C4Ô´\B3\CC\D0\F2\D0\CEÊ½\BB\F2Ä¿\B1\EA\D0\CEÊ½\B5\C4\D6\F8\D7\F7\A3\AC\D4\DA\D6\F8\D7\F7\D6Ð°\FC\BA\AC\B5Ä»ò¸½¼ÓµÄ°\E6È¨Í¨Öª
+     (\D4\DA\CF\C2\C3æ¸½Â¼\D6\D0\CCá¹©\C1\CBÒ»\B8\F6Ê¾\C0\FD)\A1\A3
  
-     "ÑÜÉú×÷Æ·"ÊÇÖ¸»ùÓÚ×÷Æ·(»ò´Ó×÷Æ·ÑÜÉú¶øÀ´)µÄÔ´³ÌÐòÐÎÊ½»òÄ¿±êÐÎÊ½µÄÈÎºÎ×÷Æ·£¬ÒÔ¼°±à¼­ÐÞ¶©¡¢
-     ×¢ÊÍ¡¢ÏêÏ¸ÃèÊö»òÆäËüÐÞ¶©µÈ¹¹³ÉÔ­´´Öø×÷×÷Æ·µÄÕûÌå¡£¸ù¾Ý±¾Ðí¿ÉÖ¤£¬ÑÜÉú×÷Æ·²»µÃ°üÀ¨Óë×÷Æ·¼°Æä
-     ÑÜÉú×÷Æ··ÖÀëÖ®×÷Æ·£¬»ò½öÓë×÷Æ·¼°ÆäÑÜÉú×÷Æ·µÄ½Ó¿ÚÏàÁ´½Ó(»ò°´Ãû³Æ½áºÏ)Ö®×÷Æ·¡£
+     "\D1\DC\C9\FA\D7\F7Æ·"\CA\C7Ö¸\BB\F9\D3\DA\D7\F7Æ·(\BB\F2\B4\D3\D7\F7Æ·\D1\DC\C9\FA\B6\F8\C0\B4)\B5\C4Ô´\B3\CC\D0\F2\D0\CEÊ½\BB\F2Ä¿\B1\EA\D0\CEÊ½\B5\C4\C8Îº\CE\D7\F7Æ·\A3\AC\D2Ô¼\B0\B1à¼­\D0Þ¶\A9\A1\A2
+     ×¢\CAÍ¡\A2\CF\EAÏ¸\C3\E8\CA\F6\BB\F2\C6\E4\CB\FC\D0Þ¶\A9\B5È¹\B9\B3\C9Ô­\B4\B4\D6\F8\D7\F7\D7\F7Æ·\B5\C4\D5\FB\CCå¡£\B8\F9\BEÝ±\BE\D0\ED\BF\C9Ö¤\A3\AC\D1\DC\C9\FA\D7\F7Æ·\B2\BB\B5Ã°\FC\C0\A8\D3\EB\D7\F7Æ·\BC\B0\C6\E4
+     \D1\DC\C9\FA\D7\F7Æ·\B7\D6\C0\EBÖ®\D7\F7Æ·\A3\AC\BB\F2\BD\F6\D3\EB\D7\F7Æ·\BC\B0\C6\E4\D1\DC\C9\FA\D7\F7Æ·\B5Ä½Ó¿\DA\CF\E0\C1\B4\BD\D3(\BB\F2\B0\B4\C3\FB\B3Æ½\E1\BA\CF)Ö®\D7\F7Æ·\A1\A3
  
-     "¹±Ï×"ÊÇÖ¸ÈÎºÎÖø×÷×÷Æ·£¬°üÀ¨×÷Æ·µÄÔ­Ê¼°æ±¾ºÍ¶Ô¸Ã×÷Æ·»òÑÜÉú×÷Æ·Ëù×öµÄÈÎºÎÐÞ¶©»ò²¹³ä£¬
-     ÒâÔÚÌá½»¸øÐí¿ÉÖ¤°ä·¢ÕßÒÔÈÃ°æÈ¨ËùÓÐÕß»ò´ú±í°æÈ¨ËùÓÐÕßµÄÊÚÈ¨¸öÈË»ò·¨ÂÉÊµÌå°üº¬ÔÚÆä×÷Æ·ÖÐ¡£
-     ¸ù¾Ý´Ë¶¨Òå£¬"Ìá½»"Ò»´Ê±íÊ¾·¢ËÍ¸øÐí¿ÉÖ¤°ä·¢Õß»òÆä´ú±íÈË£¬ÈÎºÎµç×ÓµÄ¡¢¿ÚÍ·µÄ»òÊéÃæµÄ½»Á÷ÐÅÏ¢ÐÎÊ½£¬
-     °üÀ¨µ«²»ÏÞÓÚÔÚÓÉÐí¿ÉÖ¤°ä·¢Õß»òÕß´ú±íÆä¹ÜÀíµÄµç×ÓÓÊ¼þÇåµ¥¡¢Ô´´úÂë¿ØÖÆÏµÍ³¡¢ÒÔ¼°·¢²¼¸ú×ÙÏµÍ³ÉÏÎª
-     ÌÖÂÛºÍÌá¸ß×÷Æ·µÄ½»Á÷£¬µ«²»°üÀ¨ÓÉ°æÈ¨ËùÓÐÕßÒÔÊéÃæÐÎÊ½Ã÷ÏÔ±ê×¢»òÖ¸¶¨Îª"·Ç¹±Ï×"µÄ½»Á÷»î¶¯¡£
+     "\B9\B1\CF\D7"\CA\C7Ö¸\C8Îº\CE\D6\F8\D7\F7\D7\F7Æ·\A3\AC\B0\FC\C0\A8\D7\F7Æ·\B5\C4Ô­Ê¼\B0æ±¾\BAÍ¶Ô¸\C3\D7\F7Æ·\BB\F2\D1\DC\C9\FA\D7\F7Æ·\CB\F9\D7\F6\B5\C4\C8Îº\CE\D0Þ¶\A9\BBò²¹³ä£¬
+     \D2\E2\D4\DA\CCá½»\B8\F8\D0\ED\BF\C9Ö¤\B0ä·¢\D5\DF\D2\D4\C8Ã°\E6È¨\CB\F9\D3\D0\D5ß»\F2\B4\FA\B1\ED\B0\E6È¨\CB\F9\D3\D0\D5ßµ\C4\CA\DAÈ¨\B8\F6\C8Ë»\F2\B7\A8\C2\C9Êµ\CC\E5\B0\FC\BA\AC\D4\DA\C6\E4\D7\F7Æ·\D6Ð¡\A3
+     \B8\F9\BEÝ´Ë¶\A8\D2å£¬"\CCá½»"Ò»\B4Ê±\EDÊ¾\B7\A2\CBÍ¸\F8\D0\ED\BF\C9Ö¤\B0ä·¢\D5ß»\F2\C6\E4\B4\FA\B1\ED\C8Ë£\AC\C8ÎºÎµ\E7\D7ÓµÄ¡\A2\BF\DAÍ·\B5Ä»\F2\CA\E9\C3\E6\B5Ä½\BB\C1\F7\D0\C5Ï¢\D0\CEÊ½\A3\AC
+     \B0\FC\C0\A8\B5\AB\B2\BB\CF\DE\D3\DA\D4\DA\D3\C9\D0\ED\BF\C9Ö¤\B0ä·¢\D5ß»\F2\D5ß´\FA\B1\ED\C6\E4\B9\DC\C0\ED\B5Äµ\E7\D7\D3\D3Ê¼\FE\C7åµ¥\A1\A2Ô´\B4\FA\C2\EB\BF\D8\D6\C6ÏµÍ³\A1\A2\D2Ô¼\B0\B7\A2\B2\BC\B8\FA\D7\D9ÏµÍ³\C9\CFÎª
+     \CC\D6\C2Ûº\CD\CC\E1\B8\DF\D7\F7Æ·\B5Ä½\BB\C1\F7\A3\AC\B5\AB\B2\BB\B0\FC\C0\A8\D3É°\E6È¨\CB\F9\D3\D0\D5\DF\D2\D4\CA\E9\C3\E6\D0\CEÊ½\C3\F7\CFÔ±\EA×¢\BB\F2Ö¸\B6\A8Îª"\B7Ç¹\B1\CF\D7"\B5Ä½\BB\C1\F7\BBî¶¯\A1\A3
  
-     "¹±Ï×Õß"ÊÇÖ¸Ðí¿ÉÖ¤°ä·¢ÕßºÍ´ú±í´ÓÐí¿ÉÖ¤°ä·¢Õß½ÓÊÜÖ®¹±Ï×µÄ²¢Ëæºó°üº¬ÔÚ×÷Æ·Ö®¹±Ï×ÖÐµÄÈÎºÎ¸öÈË»ò·¨ÂÉÊµÌå¡£
+     "\B9\B1\CF\D7\D5\DF"\CA\C7Ö¸\D0\ED\BF\C9Ö¤\B0ä·¢\D5ßºÍ´\FA\B1\ED\B4\D3\D0\ED\BF\C9Ö¤\B0ä·¢\D5ß½\D3\CA\DCÖ®\B9\B1\CF×µÄ²\A2\CB\E6\BA\F3\B0\FC\BA\AC\D4\DA\D7\F7Æ·Ö®\B9\B1\CF\D7\D6Ðµ\C4\C8ÎºÎ¸\F6\C8Ë»\F2\B7\A8\C2\C9Êµ\CCå¡£
  
-   2.°æÈ¨Ðí¿ÉÖ¤µÄÊÚÓè
+   2.\B0\E6È¨\D0\ED\BF\C9Ö¤\B5\C4\CA\DA\D3\E8
  
-     ¸ù¾Ý±¾Ðí¿ÉÖ¤µÄÌõ¿î£¬Ã¿¸ö¹±Ï×ÕßÊÚÓèÓÃ»§ÓÀ¾ÃÐÔµÄ¡¢È«ÇòÐÔµÄ¡¢·Ç×¨ÓÐÐÔµÄ¡¢Ãâ·ÑµÄ¡¢ÎÞ°æÈ¨·ÑµÄ¡¢
-     ²»¿É³·ÏúµÄ°æÈ¨Ðí¿ÉÖ¤ÒÔÔ´³ÌÐòÐÎÊ½»òÄ¿±êÐÎÊ½¸´ÖÆ¡¢×¼±¸ÑÜÉú×÷Æ·¡¢¹«¿ªÏÔÊ¾¡¢¹«¿ªÖ´ÐÐ¡¢
-     ÊÚÓè·ÖÐí¿ÉÖ¤¡¢ÒÔ¼°·Ö·¢×÷Æ·ºÍÕâÑùµÄÑÜÉú×÷Æ·¡£
+     \B8\F9\BEÝ±\BE\D0\ED\BF\C9Ö¤\B5\C4\CC\F5\BFî£¬Ã¿\B8\F6\B9\B1\CF\D7\D5\DF\CA\DA\D3\E8\D3Ã»\A7\D3\C0\BE\C3\D0ÔµÄ¡\A2È«\C7\F2\D0ÔµÄ¡\A2\B7\C7×¨\D3\D0\D0ÔµÄ¡\A2\C3\E2\B7ÑµÄ¡\A2\CEÞ°\E6È¨\B7ÑµÄ¡\A2
+     \B2\BB\BFÉ³\B7\CF\FA\B5Ä°\E6È¨\D0\ED\BF\C9Ö¤\D2\D4Ô´\B3\CC\D0\F2\D0\CEÊ½\BB\F2Ä¿\B1\EA\D0\CEÊ½\B8\B4\D6Æ¡\A2×¼\B1\B8\D1\DC\C9\FA\D7\F7Æ·\A1\A2\B9\AB\BF\AA\CF\D4Ê¾\A1\A2\B9\AB\BF\AAÖ´\D0Ð¡\A2
+     \CA\DA\D3\E8\B7\D6\D0\ED\BF\C9Ö¤\A1\A2\D2Ô¼\B0\B7Ö·\A2\D7\F7Æ·\BA\CD\D5\E2\D1\F9\B5\C4\D1\DC\C9\FA\D7\F7Æ·\A1\A3
  
-   3.×¨ÀûÐí¿ÉÖ¤µÄÊÚÓè
+   3.×¨\C0\FB\D0\ED\BF\C9Ö¤\B5\C4\CA\DA\D3\E8
  
-     ¸ù¾Ý±¾Ðí¿ÉÖ¤µÄÌõ¿î£¬Ã¿¸ö¹±Ï×ÕßÊÚÓèÓÃ»§ÓÀ¾ÃÐÔµÄ¡¢È«ÇòÐÔµÄ¡¢·Ç×¨ÓÐÐÔµÄ¡¢Ãâ·ÑµÄ¡¢ÎÞ°æÈ¨·ÑµÄ¡¢
-     ²»¿É³·ÏúµÄ(³ýÔÚ±¾²¿·Ö½øÐÐËµÃ÷)×¨ÀûÐí¿ÉÖ¤¶Ô×÷Æ·½øÐÐÖÆ×÷¡¢ÈÃÈËÖÆ×÷¡¢Ê¹ÓÃ¡¢Ìá¹©ÏúÊÛ¡¢ÏúÊÛ¡¢
-     ½ø¿ÚºÍÆäËü×ªÈÃ£¬ÇÒÕâÑùµÄÐí¿ÉÖ¤½öÊÊÓÃÓÚÔÚËùµÝ½»×÷Æ·µÄ¹±Ï×ÖÐÒò¿ÉÓÉµ¥Ò»µÄ»ò¶à¸öÕâÑùµÄ¹±Ï×Õß
-     ÊÚÓè¶ø±ØÐëÇÖ·¸µÄÉêÇë×¨Àû¡£Èç¹ûÓÃ»§¶ÔÈÎºÎÊµÌåÕë¶Ô×÷Æ·»ò×÷Æ·ÖÐËùÉæ¼°¹±Ï×Ìá³öÒòÖ±½ÓÐÔ»ò¹±Ï×ÐÔ
-     ×¨ÀûÇÖÈ¨¶øÌáÆð×¨Àû·¨ÂÉËßËÏ(°üÀ¨½»»¥ËßËÏÇëÇó»ò·´Ë÷Åâ)£¬ÄÇÃ´¸ù¾Ý±¾Ðí¿ÉÖ¤£¬ÊÚÓèÓÃ»§Õë¶Ô×÷Æ·
-     µÄÈÎºÎ×¨ÀûÐí¿ÉÖ¤½«ÔÚÌáÆðÉÏÊöËßËÏÖ®ÈÕÆðÖÕÖ¹¡£
+     \B8\F9\BEÝ±\BE\D0\ED\BF\C9Ö¤\B5\C4\CC\F5\BFî£¬Ã¿\B8\F6\B9\B1\CF\D7\D5\DF\CA\DA\D3\E8\D3Ã»\A7\D3\C0\BE\C3\D0ÔµÄ¡\A2È«\C7\F2\D0ÔµÄ¡\A2\B7\C7×¨\D3\D0\D0ÔµÄ¡\A2\C3\E2\B7ÑµÄ¡\A2\CEÞ°\E6È¨\B7ÑµÄ¡\A2
+     \B2\BB\BFÉ³\B7\CF\FA\B5\C4(\B3\FD\D4Ú±\BE\B2\BF\B7Ö½\F8\D0\D0Ëµ\C3\F7)×¨\C0\FB\D0\ED\BF\C9Ö¤\B6\D4\D7\F7Æ·\BD\F8\D0\D0\D6\C6\D7\F7\A1\A2\C8\C3\C8\CB\D6\C6\D7\F7\A1\A2Ê¹\D3Ã¡\A2\CCá¹©\CF\FA\CAÛ¡\A2\CF\FA\CAÛ¡\A2
+     \BD\F8\BFÚº\CD\C6\E4\CB\FC×ª\C8Ã£\AC\C7\D2\D5\E2\D1\F9\B5\C4\D0\ED\BF\C9Ö¤\BD\F6\CA\CA\D3\C3\D3\DA\D4\DA\CB\F9\B5Ý½\BB\D7\F7Æ·\B5Ä¹\B1\CF\D7\D6\D0\D2\F2\BF\C9\D3Éµ\A5Ò»\B5Ä»\F2\B6\E0\B8\F6\D5\E2\D1\F9\B5Ä¹\B1\CF\D7\D5\DF
+     \CA\DA\D3\E8\B6\F8\B1\D8\D0\EB\C7Ö·\B8\B5\C4\C9\EA\C7\EB×¨\C0\FB\A1\A3\C8\E7\B9\FB\D3Ã»\A7\B6\D4\C8Îº\CEÊµ\CC\E5\D5\EB\B6\D4\D7\F7Æ·\BB\F2\D7\F7Æ·\D6\D0\CB\F9\C9æ¼°\B9\B1\CF\D7\CC\E1\B3\F6\D2\F2Ö±\BD\D3\D0Ô»\F2\B9\B1\CF\D7\D0\D4
+     ×¨\C0\FB\C7\D6È¨\B6\F8\CC\E1\C6\F0×¨\C0\FB\B7\A8\C2\C9\CB\DF\CB\CF(\B0\FC\C0\A8\BD\BB\BB\A5\CB\DF\CB\CF\C7\EB\C7\F3\BB\F2\B7\B4\CB\F7\C5\E2)\A3\AC\C4\C7Ã´\B8\F9\BEÝ±\BE\D0\ED\BF\C9Ö¤\A3\AC\CA\DA\D3\E8\D3Ã»\A7\D5\EB\B6\D4\D7\F7Æ·
+     \B5\C4\C8Îº\CE×¨\C0\FB\D0\ED\BF\C9Ö¤\BD\AB\D4\DA\CC\E1\C6\F0\C9\CF\CA\F6\CB\DF\CB\CFÖ®\C8\D5\C6\F0\D6\D5Ö¹\A1\A3
  
-   4.ÖØÐÂ·Ö·¢
+   4.\D6\D8\D0Â·Ö·\A2
  
-     ÓÃ»§¿ÉÔÚÈÎºÎÃ½½éÖÐ¸´ÖÆºÍ·Ö·¢×÷Æ·»òÑÜÉú×÷Æ·Ö®¸±±¾£¬ÎÞÂÛÊÇ·ñÐÞ¶©£¬»¹ÊÇÒÔÔ´³ÌÐòÐÎÊ½»òÄ¿±êÐÎÊ½£¬
-     Ìõ¼þÊÇÓÃ»§ÐèÂú×ãÏÂÁÐÌõ¿î£º
+     \D3Ã»\A7\BF\C9\D4\DA\C8Îº\CEÃ½\BD\E9\D6Ð¸\B4\D6ÆºÍ·Ö·\A2\D7\F7Æ·\BB\F2\D1\DC\C9\FA\D7\F7Æ·Ö®\B8\B1\B1\BE\A3\AC\CE\DE\C2\DB\CAÇ·\F1\D0Þ¶\A9\A3\AC\BB\B9\CA\C7\D2\D4Ô´\B3\CC\D0\F2\D0\CEÊ½\BB\F2Ä¿\B1\EA\D0\CEÊ½\A3\AC
+     \CC\F5\BC\FE\CA\C7\D3Ã»\A7\D0\E8\C2\FA\D7\E3\CF\C2\C1\D0\CC\F5\BFî£º
  
-     a) ÓÃ»§±ØÐëÎª×÷Æ·»òÑÜÉú×÷Æ·µÄÈÎºÎÆäËû½ÓÊÕÕßÌá¹©±¾Ðí¿ÉÖ¤µÄ¸±±¾£»²¢ÇÒ
+     a) \D3Ã»\A7\B1\D8\D0\EBÎª\D7\F7Æ·\BB\F2\D1\DC\C9\FA\D7\F7Æ·\B5\C4\C8Îº\CE\C6\E4\CB\FB\BD\D3\CA\D5\D5\DF\CCá¹©\B1\BE\D0\ED\BF\C9Ö¤\B5Ä¸\B1\B1\BE\A3\BB\B2\A2\C7\D2
    
-     b) ÓÃ»§±ØÐëÈÃÈÎºÎÐÞ¸Ä¹ýµÄÎÄ¼þ¸½´øÃ÷ÏÔµÄÍ¨Öª£¬ÉùÃ÷ÓÃ»§ÒÑ¸ü¸ÄÎÄ¼þ£»²¢ÇÒ
+     b) \D3Ã»\A7\B1\D8\D0\EB\C8\C3\C8Îº\CE\D0Þ¸Ä¹\FD\B5\C4\CEÄ¼\FE\B8\BD\B4\F8\C3\F7\CFÔµ\C4Í¨Öª\A3\AC\C9\F9\C3\F7\D3Ã»\A7\D2Ñ¸\FC\B8\C4\CEÄ¼\FE\A3\BB\B2\A2\C7\D2
    
-     c) ÓÃ»§±ØÐë´Ó×÷Æ·µÄÔ´³ÌÐòÐÎÊ½ÖÐ±£ÁôÑÜÉú×÷Æ·Ô´³ÌÐòÐÎÊ½µÄÓÃ»§Ëù·Ö·¢µÄËùÓÐ°æÈ¨¡¢×¨Àû¡¢
-        ÉÌ±êºÍÊôÐÔÍ¨Öª£¬µ«²»°üÀ¨²»ÊôÓÚÑÜÉú×÷Æ·ÈÎºÎ²¿·ÖµÄÀàËÆÍ¨Öª£»²¢ÇÒ
+     c) \D3Ã»\A7\B1\D8\D0\EB\B4\D3\D7\F7Æ·\B5\C4Ô´\B3\CC\D0\F2\D0\CEÊ½\D6Ð±\A3\C1\F4\D1\DC\C9\FA\D7\F7Æ·Ô´\B3\CC\D0\F2\D0\CEÊ½\B5\C4\D3Ã»\A7\CB\F9\B7Ö·\A2\B5\C4\CB\F9\D3Ð°\E6È¨\A1\A2×¨\C0\FB\A1\A2
+        \C9Ì±\EA\BA\CD\CA\F4\D0\D4Í¨Öª\A3\AC\B5\AB\B2\BB\B0\FC\C0\A8\B2\BB\CA\F4\D3\DA\D1\DC\C9\FA\D7\F7Æ·\C8ÎºÎ²\BF\B7Öµ\C4\C0\E0\CB\C6Í¨Öª\A3\BB\B2\A2\C7\D2
    
-     d) Èç¹û×÷Æ·½«"Í¨Öª"ÎÄ±¾ÎÄ¼þ°üÀ¨ÎªÆä·Ö·¢×÷Æ·µÄÒ»²¿·Ö£¬ÄÇÃ´ÓÃ»§·Ö·¢µÄÈÎºÎÑÜÉú×÷Æ·ÖÐÐëÖÁÉÙ
-        ÔÚÏÂÁÐµØ·½Ö®Ò»°üÀ¨£¬ÔÚÕâÑùµÄÍ¨ÖªÎÄ¼þÖÐËù°üº¬µÄÊôÐÔÍ¨ÖªµÄ¿É¶Á¸±±¾£¬µ«²»°üÀ¨ÄÇÐ©²»ÊôÓÚÑÜÉú
-	    ×÷Æ·ÈÎºÎ²¿·ÖµÄÍ¨Öª£ºÔÚ×÷ÎªÑÜÉú×÷Æ·Ò»²¿·Ö¶ø·Ö·¢µÄÍ¨ÖªÎÄ±¾ÎÄ¼þÖÐ£»Èç¹ûÓëÑÜÉú×÷Æ·Ò»ÆðÌá¹©Ôò
-	    ÔÚÔ´³ÌÐòÐÎÊ½»òÎÄ¼þÖÐ£»»òÕßÍ¨³£×÷ÎªµÚÈý·½Í¨Öª³öÏÖµÄÊ±ºòºÍµØ·½£¬ÔÚÑÜÉú×÷Æ·ÖÐ²úÉúµÄ»­ÃæÖÐ¡£
-	    Í¨ÖªÎÄ¼þµÄÄÚÈÝ½ö¹©ÐÅÏ¢Ìá¹©£¬²¢Î´¶ÔÐí¿ÉÖ¤½øÐÐÐÞ¸Ä¡£ÓÃ»§¿ÉÔÚÆä·Ö·¢µÄÑÜÉú×÷Æ·ÖÐÔÚ×÷Æ·µÄÍ¨Öª
-	    ÎÄ±¾ºó»ò×÷Îª¸½Â¼Ìí¼Ó×Ô¼ºµÄÊôÐÔÍ¨Öª£¬Ìõ¼þÊÇ¸½¼ÓµÄÊôÐÔÍ¨Öª²»µÃ¹¹³ÉÐÞ¸Ä±¾Ðí¿ÉÖ¤¡£
+     d) \C8\E7\B9\FB\D7\F7Æ·\BD\AB"Í¨Öª"\CEÄ±\BE\CEÄ¼\FE\B0\FC\C0\A8Îª\C6\E4\B7Ö·\A2\D7\F7Æ·\B5\C4Ò»\B2\BF\B7Ö£\AC\C4\C7Ã´\D3Ã»\A7\B7Ö·\A2\B5\C4\C8Îº\CE\D1\DC\C9\FA\D7\F7Æ·\D6\D0\D0\EB\D6\C1\C9\D9
+        \D4\DA\CF\C2\C1ÐµØ·\BDÖ®Ò»\B0\FC\C0\A8\A3\AC\D4\DA\D5\E2\D1\F9\B5\C4Í¨Öª\CEÄ¼\FE\D6\D0\CB\F9\B0\FC\BA\AC\B5\C4\CA\F4\D0\D4Í¨Öª\B5Ä¿É¶\C1\B8\B1\B1\BE\A3\AC\B5\AB\B2\BB\B0\FC\C0\A8\C4\C7Ð©\B2\BB\CA\F4\D3\DA\D1\DC\C9\FA
+	    \D7\F7Æ·\C8ÎºÎ²\BF\B7Öµ\C4Í¨Öª\A3\BA\D4\DA\D7\F7Îª\D1\DC\C9\FA\D7\F7Æ·Ò»\B2\BF\B7Ö¶\F8\B7Ö·\A2\B5\C4Í¨Öª\CEÄ±\BE\CEÄ¼\FE\D6Ð£\BB\C8\E7\B9\FB\D3\EB\D1\DC\C9\FA\D7\F7Æ·Ò»\C6\F0\CCá¹©\D4\F2
+	    \D4\DAÔ´\B3\CC\D0\F2\D0\CEÊ½\BB\F2\CEÄ¼\FE\D6Ð£\BB\BB\F2\D5\DFÍ¨\B3\A3\D7\F7Îª\B5\DA\C8\FD\B7\BDÍ¨Öª\B3\F6\CFÖµ\C4Ê±\BA\F2\BAÍµØ·\BD\A3\AC\D4\DA\D1\DC\C9\FA\D7\F7Æ·\D6Ð²\FA\C9\FA\B5Ä»\AD\C3\E6\D6Ð¡\A3
+	    Í¨Öª\CEÄ¼\FE\B5\C4\C4\DA\C8Ý½\F6\B9\A9\D0\C5Ï¢\CCá¹©\A3\AC\B2\A2Î´\B6\D4\D0\ED\BF\C9Ö¤\BD\F8\D0\D0\D0Þ¸Ä¡\A3\D3Ã»\A7\BF\C9\D4\DA\C6\E4\B7Ö·\A2\B5\C4\D1\DC\C9\FA\D7\F7Æ·\D6\D0\D4\DA\D7\F7Æ·\B5\C4Í¨Öª
+	    \CEÄ±\BE\BA\F3\BB\F2\D7\F7Îª\B8\BDÂ¼\CC\ED\BC\D3\D7Ô¼\BA\B5\C4\CA\F4\D0\D4Í¨Öª\A3\AC\CC\F5\BC\FE\CAÇ¸\BD\BCÓµ\C4\CA\F4\D0\D4Í¨Öª\B2\BB\B5Ã¹\B9\B3\C9\D0Þ¸Ä±\BE\D0\ED\BF\C9Ö¤\A1\A3
    
-     ÓÃ»§¿ÉÒÔÎª×ÔÉíËù×ö³öµÄÐÞ¶©Ìí¼Ó×Ô¼ºµÄ°æÈ¨ÉùÃ÷²¢¿É¶Ô×ÔÉíËù×ö³öÐÞ¶©ÄÚÈÝ»òÎªÕâÑùµÄÑÜÉú×÷Æ·×÷Îª
-     ÕûÌåµÄÊ¹ÓÃ¡¢¸´ÖÆ»ò·Ö·¢Ìá¹©¸½¼Ó»ò²»Í¬µÄÌõ¿î£¬Ìõ¼þÊÇÓÃ»§¶Ô×÷Æ·µÄÊ¹ÓÃ¡¢¸´ÖÆºÍ·Ö·¢±ØÐë·ûºÏ±¾Ðí
-     ¿ÉÖ¤ÖÐÉùÃ÷µÄÌõ¿î¡£
+     \D3Ã»\A7\BF\C9\D2\D4Îª\D7\D4\C9\ED\CB\F9\D7\F6\B3\F6\B5\C4\D0Þ¶\A9\CC\ED\BC\D3\D7Ô¼\BA\B5Ä°\E6È¨\C9\F9\C3\F7\B2\A2\BFÉ¶\D4\D7\D4\C9\ED\CB\F9\D7\F6\B3\F6\D0Þ¶\A9\C4\DA\C8Ý»\F2Îª\D5\E2\D1\F9\B5\C4\D1\DC\C9\FA\D7\F7Æ·\D7\F7Îª
+     \D5\FB\CC\E5\B5\C4Ê¹\D3Ã¡\A2\B8\B4\D6Æ»\F2\B7Ö·\A2\CCá¹©\B8\BD\BCÓ»\F2\B2\BBÍ¬\B5\C4\CC\F5\BFî£¬\CC\F5\BC\FE\CA\C7\D3Ã»\A7\B6\D4\D7\F7Æ·\B5\C4Ê¹\D3Ã¡\A2\B8\B4\D6ÆºÍ·Ö·\A2\B1\D8\D0\EB\B7\FB\BAÏ±\BE\D0\ED
+     \BF\C9Ö¤\D6\D0\C9\F9\C3\F7\B5\C4\CC\F5\BFî¡£
  
-   5.¹±Ï×µÄÌá½»¡£
+   5.\B9\B1\CF×µ\C4\CCá½»\A1\A3
  
-     ³ý·ÇÓÃ»§Ã÷È·ÉùÃ÷£¬ÔÚ×÷Æ·ÖÐÓÉÓÃ»§ÏòÐí¿ÉÖ¤°ä·¢ÕßµÄÌá½»ÈôÒª°üº¬ÔÚ¹±Ï×ÖÐ£¬±ØÐëÔÚÎÞÈÎºÎ¸½¼ÓÌõ¿îÏÂ
-     ·ûºÏ±¾Ðí¿ÉÖ¤µÄÌõ¿î¡£¾¡¹ÜÉÏÃæÈç´Ë¹æ¶¨£¬Ö´ÐÐÐí¿ÉÖ¤°ä·¢ÕßÓÐ¹Ø¹±Ï×µÄÌõ¿îÊ±£¬ÈÎºÎÇé¿öÏÂ¾ù²»µÃÌæ´ú
-     »òÐÞ¸ÄÈÎºÎµ¥¶ÀÐí¿ÉÖ¤Ð­ÒéµÄÌõ¿î¡£
+     \B3\FD\B7\C7\D3Ã»\A7\C3\F7È·\C9\F9\C3\F7\A3\AC\D4\DA\D7\F7Æ·\D6\D0\D3\C9\D3Ã»\A7\CF\F2\D0\ED\BF\C9Ö¤\B0ä·¢\D5ßµ\C4\CCá½»\C8\F4Òª\B0\FC\BA\AC\D4Ú¹\B1\CF\D7\D6Ð£\AC\B1\D8\D0\EB\D4\DA\CE\DE\C8ÎºÎ¸\BD\BC\D3\CC\F5\BF\EE\CF\C2
+     \B7\FB\BAÏ±\BE\D0\ED\BF\C9Ö¤\B5\C4\CC\F5\BFî¡£\BE\A1\B9\DC\C9\CF\C3\E6\C8\E7\B4Ë¹æ¶¨\A3\ACÖ´\D0\D0\D0\ED\BF\C9Ö¤\B0ä·¢\D5\DF\D3Ð¹Ø¹\B1\CF×µ\C4\CC\F5\BF\EEÊ±\A3\AC\C8Îº\CE\C7\E9\BF\F6\CFÂ¾\F9\B2\BB\B5\C3\CC\E6\B4\FA
+     \BB\F2\D0Þ¸\C4\C8ÎºÎµ\A5\B6\C0\D0\ED\BF\C9Ö¤Ð­\D2\E9\B5\C4\CC\F5\BFî¡£
  
-   6.ÉÌ±ê¡£±¾Ðí¿ÉÖ¤²¢Î´ÊÚÓèÓÃ»§Ê¹ÓÃÐí¿ÉÖ¤°ä·¢ÕßµÄÉÌºÅ¡¢ÉÌ±ê¡¢·þÎñ±ê¼Ç»ò²úÆ·Ãû³Æ£¬³ý·Ç½«ÕâÐ©Ãû³Æ
-     ÓÃÓÚºÏÀíÐÔºÍ¹ßÀýÐÔÃèÊö×÷Æ·ÆðÔ´ºÍ¸´ÖÆÍ¨ÖªÎÄ¼þµÄÄÚÈÝÊ±¡£
+   6.\C9Ì±ê¡£\B1\BE\D0\ED\BF\C9Ö¤\B2\A2Î´\CA\DA\D3\E8\D3Ã»\A7Ê¹\D3\C3\D0\ED\BF\C9Ö¤\B0ä·¢\D5ßµ\C4\C9ÌºÅ¡\A2\C9Ì±ê¡¢\B7\FE\CE\F1\B1\EA\BCÇ»\F2\B2\FAÆ·\C3\FB\B3Æ£\AC\B3\FD\B7Ç½\AB\D5\E2Ð©\C3\FB\B3\C6
+     \D3\C3\D3Úº\CF\C0\ED\D0ÔºÍ¹\DF\C0\FD\D0\D4\C3\E8\CA\F6\D7\F7Æ·\C6\F0Ô´\BAÍ¸\B4\D6\C6Í¨Öª\CEÄ¼\FE\B5\C4\C4\DA\C8\DDÊ±\A1\A3
 	 
-   7.±£Ö¤·ñÈÏÌõ¿î¡£³ý·ÇÒòÊÊÓÃ·¨ÂÉÐèÒª»òÊéÃæÍ¬Òâ£¬Ðí¿ÉÖ¤°ä·¢ÕßÒÔ"°´Ô­Ñù"»ù´¡Ìá¹©×÷Æ·(²¢ÇÒÃ¿¸ö
-     ¹±Ï×ÕßÌá¹©Æä¹±Ï×)£¬ÎÞÈÎºÎÃ÷Ê¾µÄ»ò°µÊ¾µÄ±£Ö¤»òÌõ¼þ£¬°üÀ¨µ«²»ÏÞÓÚ¹ØÓÚËùÓÐÈ¨¡¢²»ÇÖÈ¨¡¢
-	 ÉÌÆ·ÊÊÏúÐÔ¡¢»òÊÊÓÃÐÔµÄ±£Ö¤»òÌõ¼þ¡£ÓÃ»§½ö¶ÔÊ¹ÓÃ»òÖØÐÂ·Ö·¢×÷Æ·µÄÕýÈ·ÐÔ¸ºÔð£¬²¢Ðè³Ðµ£¸ù¾Ý±¾
-	 Ðí¿ÉÖ¤ÐÐÊ¹È¨ÏÞÊ±µÄÈÎºÎ·çÏÕ¡£
+   7.\B1\A3Ö¤\B7\F1\C8\CF\CC\F5\BFî¡£\B3\FD\B7\C7\D2\F2\CA\CA\D3Ã·\A8\C2\C9\D0\E8Òª\BB\F2\CA\E9\C3\E6Í¬\D2â£¬\D0\ED\BF\C9Ö¤\B0ä·¢\D5\DF\D2\D4"\B0\B4Ô­\D1\F9"\BB\F9\B4\A1\CCá¹©\D7\F7Æ·(\B2\A2\C7\D2Ã¿\B8\F6
+     \B9\B1\CF\D7\D5\DF\CCá¹©\C6ä¹±\CF\D7)\A3\AC\CE\DE\C8Îº\CE\C3\F7Ê¾\B5Ä»\F2\B0\B5Ê¾\B5Ä±\A3Ö¤\BB\F2\CC\F5\BC\FE\A3\AC\B0\FC\C0\A8\B5\AB\B2\BB\CF\DE\D3Ú¹\D8\D3\DA\CB\F9\D3\D0È¨\A1\A2\B2\BB\C7\D6È¨\A1\A2
+	 \C9\CCÆ·\CA\CA\CF\FA\D0Ô¡\A2\BB\F2\CA\CA\D3\C3\D0ÔµÄ±\A3Ö¤\BB\F2\CC\F5\BC\FE\A1\A3\D3Ã»\A7\BD\F6\B6\D4Ê¹\D3Ã»\F2\D6\D8\D0Â·Ö·\A2\D7\F7Æ·\B5\C4\D5\FDÈ·\D0Ô¸\BA\D4ð£¬²\A2\D0\E8\B3Ðµ\A3\B8\F9\BEÝ±\BE
+	 \D0\ED\BF\C9Ö¤\D0\D0Ê¹È¨\CF\DEÊ±\B5\C4\C8ÎºÎ·\E7\CFÕ¡\A3
 	 
-   8.ÔðÈÎÏÞÖÆÌõ¿î¡£ÔÚÈÎºÎÇé¿öÏÂ²¢¸ù¾ÝÈÎºÎ·¨ÂÉ£¬ÎÞÂÛÊÇÒòÇÖÈ¨(°üÀ¨¹ýÊ§)»ò¸ù¾ÝºÏÍ¬£¬»¹ÊÇÆäËüÔ­Òò£¬
-     ³ý·Ç¸ù¾ÝÊÊÓÃ·¨ÂÉÐèÒª(ÀýÈç¹ÊÒâÐÐÎªºÍÖØ´ó¹ýÊ§ÐÐÎª)»ò¾­ÊéÃæÍ¬Òâ£¬¼´Ê¹¹±Ï×ÕßÊÂÏÈÒÑ±»¸æÖª·¢Éú
-     Ëðº¦µÄ¿ÉÄÜÐÔ£¬ÈÎºÎ¹±Ï×Õß²»¾ÍÓÃ»§ÒòÊ¹ÓÃ±¾Ðí¿ÉÖ¤»ò²»ÄÜÊ¹ÓÃ»òÎÞ·¨Ê¹ÓÃ×÷Æ·(°üÀ¨µ«²»ÏÞÓÚÉÌÓþËðÊ§¡¢
-     Í£¹¤¡¢¼ÆËã»úÊ§Ð§»ò¹ÊÕÏ£¬»òÈÎºÎÉÌÒµËð»µ»òËðÊ§)¶øÔì³ÉµÄËðÊ§£¬°üÀ¨Ö±½ÓµÄ¡¢·ÇÖ±½ÓµÄ¡¢ÌØÊâµÄ¡¢ÒâÍâ
-     µÄ»ò¼ä½ÓµÄ×Ö·ûËð»µ¶ø¸ºÔð¡£
+   8.\D4\F0\C8\CE\CF\DE\D6\C6\CC\F5\BFî¡£\D4\DA\C8Îº\CE\C7\E9\BF\F6\CFÂ²\A2\B8\F9\BE\DD\C8ÎºÎ·\A8\C2É£\AC\CE\DE\C2\DB\CA\C7\D2\F2\C7\D6È¨(\B0\FC\C0\A8\B9\FDÊ§)\BB\F2\B8\F9\BEÝº\CFÍ¬\A3\AC\BB\B9\CA\C7\C6\E4\CB\FCÔ­\D2\F2\A3\AC
+     \B3\FD\B7Ç¸\F9\BE\DD\CA\CA\D3Ã·\A8\C2\C9\D0\E8Òª(\C0\FD\C8\E7\B9\CA\D2\E2\D0\D0Îª\BA\CD\D6Ø´\F3\B9\FDÊ§\D0\D0Îª)\BB\F2\BE\AD\CA\E9\C3\E6Í¬\D2â£¬\BC\B4Ê¹\B9\B1\CF\D7\D5\DF\CA\C2\CF\C8\D2Ñ±\BB\B8\E6Öª\B7\A2\C9\FA
+     \CBðº¦µÄ¿\C9\C4\DC\D0Ô£\AC\C8ÎºÎ¹\B1\CF\D7\D5ß²\BB\BE\CD\D3Ã»\A7\D2\F2Ê¹\D3Ã±\BE\D0\ED\BF\C9Ö¤\BB\F2\B2\BB\C4\DCÊ¹\D3Ã»\F2\CEÞ·\A8Ê¹\D3\C3\D7\F7Æ·(\B0\FC\C0\A8\B5\AB\B2\BB\CF\DE\D3\DA\C9\CC\D3\FE\CB\F0Ê§\A1\A2
+     Í£\B9\A4\A1\A2\BC\C6\CB\E3\BB\FAÊ§Ð§\BB\F2\B9\CA\D5Ï£\AC\BB\F2\C8Îº\CE\C9\CCÒµ\CBð»µ»\F2\CB\F0Ê§)\B6\F8\D4\EC\B3Éµ\C4\CB\F0Ê§\A3\AC\B0\FC\C0\A8Ö±\BDÓµÄ¡\A2\B7\C7Ö±\BDÓµÄ¡\A2\CC\D8\CA\E2\B5Ä¡\A2\D2\E2\CD\E2
+     \B5Ä»\F2\BC\E4\BDÓµ\C4\D7Ö·\FB\CBð»µ¶\F8\B8\BA\D4\F0\A1\A3
    
-   9.½ÓÊÜ±£Ö¤»ò¸½¼ÓÔðÈÎ¡£ÖØÐÂ·Ö·¢×÷Æ·»ò¼°ÆäÑÜÉú×÷Æ·Ê±£¬ÓÃ»§¿ÉÑ¡ÔñÌá¹©»òÎª·ûºÏ±¾Ðí¿ÉÖ¤³Ðµ£Ö®Ö§³Ö¡¢
-     µ£±£¡¢Åâ³¥»òÆäËüÖ°ÔðÒåÎñºÍ/»òÈ¨Àû¶øÊÕÈ¡·ÑÓÃ¡£µ«ÊÇ£¬ÔÚ³Ðµ£ÉÏÊöÒåÎñÊ±£¬ÓÃ»§Ö»¿É´ú±íÓÃ»§±¾ÉíºÍ
-     ÓÃ»§±¾ÉíÔðÈÎÀ´Ö´ÐÐ£¬ÎÞÐè´ú±íÈÎºÎÆäËü¹±Ï×Õß£¬²¢ÇÒÓÃ»§½ö¿É±£Ö¤¡¢·À»¤²¢±£³ÖÃ¿¸ö¹±Ï×Õß²»ÊÜÈÎºÎ
-     Òò´Ë¶ø²úÉúµÄÔðÈÎ»ò¶ÔÒòÓÃ»§×ÔÉí³Ðµ£ÕâÑùµÄ±£Ö¤»ò¸½¼ÓÔðÈÎ¶ø¶ÔÕâÑùµÄ¹±Ï×ÕßËùÌá³öµÄË÷Åâ¡£
+   9.\BD\D3\CAÜ±\A3Ö¤\BBò¸½¼\D3\D4\F0\C8Î¡\A3\D6\D8\D0Â·Ö·\A2\D7\F7Æ·\BB\F2\BC\B0\C6\E4\D1\DC\C9\FA\D7\F7Æ·Ê±\A3\AC\D3Ã»\A7\BF\C9Ñ¡\D4\F1\CCá¹©\BB\F2Îª\B7\FB\BAÏ±\BE\D0\ED\BF\C9Ö¤\B3Ðµ\A3Ö®Ö§\B3Ö¡\A2
+     \B5\A3\B1\A3\A1\A2\C5â³¥\BB\F2\C6\E4\CB\FCÖ°\D4\F0\D2\E5\CE\F1\BA\CD/\BB\F2È¨\C0\FB\B6\F8\CA\D5È¡\B7\D1\D3Ã¡\A3\B5\AB\CAÇ£\AC\D4Ú³Ðµ\A3\C9\CF\CA\F6\D2\E5\CE\F1Ê±\A3\AC\D3Ã»\A7Ö»\BFÉ´\FA\B1\ED\D3Ã»\A7\B1\BE\C9\ED\BA\CD
+     \D3Ã»\A7\B1\BE\C9\ED\D4\F0\C8\CE\C0\B4Ö´\D0Ð£\AC\CE\DE\D0\E8\B4\FA\B1\ED\C8Îº\CE\C6\E4\CB\FC\B9\B1\CF\D7\D5ß£\AC\B2\A2\C7\D2\D3Ã»\A7\BD\F6\BFÉ±\A3Ö¤\A1\A2\B7\C0\BB\A4\B2\A2\B1\A3\B3\D6Ã¿\B8\F6\B9\B1\CF\D7\D5ß²\BB\CA\DC\C8Îº\CE
+     \D2\F2\B4Ë¶\F8\B2\FA\C9\FA\B5\C4\D4\F0\C8Î»\F2\B6\D4\D2\F2\D3Ã»\A7\D7\D4\C9\ED\B3Ðµ\A3\D5\E2\D1\F9\B5Ä±\A3Ö¤\BBò¸½¼\D3\D4\F0\C8Î¶\F8\B6\D4\D5\E2\D1\F9\B5Ä¹\B1\CF\D7\D5\DF\CB\F9\CC\E1\B3\F6\B5\C4\CB\F7\C5â¡£
    
-   Ìõ¿î½áÊø
+   \CC\F5\BF\EE\BD\E1\CA\F8
  
-   ¸½Â¼£ºÈçºÎÏòÓÃ»§×÷Æ·ÖÐÓ¦ÓÃApacheÐí¿ÉÖ¤¡£
+   \B8\BDÂ¼\A3\BA\C8\E7\BA\CE\CF\F2\D3Ã»\A7\D7\F7Æ·\D6\D0Ó¦\D3\C3Apache\D0\ED\BF\C9Ö¤\A1\A3
  
-   ÈôÒªÏòÓÃ»§×÷Æ·Ó¦ÓÃApacheÐí¿ÉÖ¤£¬Çë¸½¼ÓÏÂÁÐÑù±¾Í¨Öª£¬½«À¨ºÅ"[]"ÖÐµÄ×Ö¶ÎÒÔÓÃ»§×ÔÉíµÄ
-   Çø·ÖÐÅÏ¢À´Ìæ»»(µ«²»°üÀ¨À¨ºÅ)¡£ÎÄ±¾±ØÐëÒÔÎÄ¼þ¸ñÊ½ÊÊµ±µÄ×¢ÊÍ¾ä·¨°üº¬ÔÚÆäÖÐ¡£
-   ÁíÍâ½¨Òé½«ÎÄ¼þÃû»òÀà±ðÃûÒÔ¼°Ä¿µÄËµÃ÷°üº¬ÔÚÏàÍ¬µÄ"´òÓ¡Ò³"ÉÏ×÷Îª°æÈ¨Í¨Öª£¬ÒÔ¸ü¼ÓÈÝÒ×µÄÇø·Ö³öµÚÈý·½µµ°¸¡£
+   \C8\F4Òª\CF\F2\D3Ã»\A7\D7\F7Æ·Ó¦\D3\C3Apache\D0\ED\BF\C9Ö¤\A3\AC\C7ë¸½\BC\D3\CF\C2\C1\D0\D1\F9\B1\BEÍ¨Öª\A3\AC\BD\AB\C0\A8\BA\C5"[]"\D6Ðµ\C4\D7Ö¶\CE\D2\D4\D3Ã»\A7\D7\D4\C9\ED\B5\C4
+   \C7\F8\B7\D6\D0\C5Ï¢\C0\B4\CCæ»»(\B5\AB\B2\BB\B0\FC\C0\A8\C0\A8\BA\C5)\A1\A3\CEÄ±\BE\B1\D8\D0\EB\D2\D4\CEÄ¼\FE\B8\F1Ê½\CAÊµ\B1\B5\C4×¢\CAÍ¾ä·¨\B0\FC\BA\AC\D4\DA\C6\E4\D6Ð¡\A3
+   \C1\ED\CDâ½¨\D2é½«\CEÄ¼\FE\C3\FB\BB\F2\C0\E0\B1\F0\C3\FB\D2Ô¼\B0Ä¿\B5\C4Ëµ\C3\F7\B0\FC\BA\AC\D4\DA\CF\E0Í¬\B5\C4"\B4\F2Ó¡Ò³"\C9\CF\D7\F7Îª\B0\E6È¨Í¨Öª\A3\AC\D2Ô¸\FC\BC\D3\C8\DD\D2×µ\C4\C7\F8\B7Ö³\F6\B5\DA\C8\FD\B7\BD\B5\B5\B0\B8\A1\A3
  
-   °æÈ¨ËùÓÐ 2012-2013 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> ¸ù¾Ý2.0°æ±¾ApacheÐí¿ÉÖ¤("Ðí¿ÉÖ¤")ÊÚÈ¨£»
-   ¸ù¾Ý±¾Ðí¿ÉÖ¤£¬ÓÃ»§¿ÉÒÔ²»Ê¹ÓÃ´ËÎÄ¼þ¡£
+   \B0\E6È¨\CB\F9\D3\D0 2012-2013 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> \B8\F9\BE\DD2.0\B0æ±¾Apache\D0\ED\BF\C9Ö¤("\D0\ED\BF\C9Ö¤")\CA\DAÈ¨\A3\BB
+   \B8\F9\BEÝ±\BE\D0\ED\BF\C9Ö¤\A3\AC\D3Ã»\A7\BF\C9\D2Ô²\BBÊ¹\D3Ã´\CB\CEÄ¼\FE\A1\A3
    
-   ÓÃ»§¿É´ÓÏÂÁÐÍøÖ·»ñµÃÐí¿ÉÖ¤¸±±¾£ºhttp://www.apache.org/licenses/LICENSE-2.0
-   ³ý·ÇÒòÊÊÓÃ·¨ÂÉÐèÒª»òÊéÃæÍ¬Òâ£¬¸ù¾ÝÐí¿ÉÖ¤·Ö·¢µÄÈí¼þÊÇ»ùÓÚ"°´Ô­Ñù"»ù´¡Ìá¹©£¬
-   ÎÞÈÎºÎÃ÷Ê¾µÄ»ò°µÊ¾µÄ±£Ö¤»òÌõ¼þ¡£Ïê¼û¸ù¾ÝÐí¿ÉÖ¤Ðí¿ÉÏÂ£¬ÌØ¶¨ÓïÑÔµÄ¹ÜÏ½È¨ÏÞºÍÏÞÖÆ¡£
+   \D3Ã»\A7\BFÉ´\D3\CF\C2\C1\D0\CD\F8Ö·\BB\F1\B5\C3\D0\ED\BF\C9Ö¤\B8\B1\B1\BE\A3\BAhttp://www.apache.org/licenses/LICENSE-2.0
+   \B3\FD\B7\C7\D2\F2\CA\CA\D3Ã·\A8\C2\C9\D0\E8Òª\BB\F2\CA\E9\C3\E6Í¬\D2â£¬\B8\F9\BE\DD\D0\ED\BF\C9Ö¤\B7Ö·\A2\B5\C4\C8\ED\BC\FE\CAÇ»\F9\D3\DA"\B0\B4Ô­\D1\F9"\BB\F9\B4\A1\CCá¹©\A3\AC
+   \CE\DE\C8Îº\CE\C3\F7Ê¾\B5Ä»\F2\B0\B5Ê¾\B5Ä±\A3Ö¤\BB\F2\CC\F5\BC\FE\A1\A3\CF\EA\BC\FB\B8\F9\BE\DD\D0\ED\BF\C9Ö¤\D0\ED\BF\C9\CFÂ£\AC\CCØ¶\A8\D3\EF\D1ÔµÄ¹\DCÏ½È¨\CFÞº\CD\CF\DE\D6Æ¡\A3
 
    =======================================================
 
-   ¼òÒª½âÊÍ£º
+   \BC\F2Òª\BD\E2\CAÍ£\BA
    
-   1.ÐèÒª¸ø´úÂëµÄÓÃ»§Ò»·ÝApache Licence
-   2.Èç¹ûÄãÐÞ¸ÄÁË´úÂë£¬ÐèÒªÔÚ±»ÐÞ¸ÄµÄÎÄ¼þÖÐËµÃ÷¡£
-   3.ÔÚÑÓÉìµÄ´úÂëÖÐ£¨ÐÞ¸ÄºÍÓÐÔ´´úÂëÑÜÉúµÄ´úÂëÖÐ£©ÐèÒª´øÓÐÔ­À´´úÂëÖÐµÄÐ­Òé£¬ÉÌ±ê£¬
-     ×¨ÀûÉùÃ÷ºÍÆäËûÔ­À´×÷Õß¹æ¶¨ÐèÒª°üº¬µÄËµÃ÷¡£
-   4.Èç¹ûÔÙ·¢²¼µÄ²úÆ·ÖÐ°üº¬Ò»¸öNoticeÎÄ¼þ£¬ÔòÔÚNoticeÎÄ¼þÖÐÐèÒª´øÓÐ Apache Licence¡£
-     Äã¿ÉÒÔÔÚNoticeÖÐÔö¼Ó×Ô¼ºµÄÐí¿É£¬µ«²»¿ÉÒÔ±íÏÖÎª¶ÔApache Licence¹¹³É¸ü¸Ä¡£
+   1.\D0\E8Òª\B8\F8\B4\FA\C2\EB\B5\C4\D3Ã»\A7Ò»\B7\DDApache Licence
+   2.\C8\E7\B9\FB\C4\E3\D0Þ¸\C4\C1Ë´\FA\C2ë£¬\D0\E8Òª\D4Ú±\BB\D0Þ¸Äµ\C4\CEÄ¼\FE\D6\D0Ëµ\C3\F7\A1\A3
+   3.\D4\DA\D1\D3\C9\EC\B5Ä´\FA\C2\EB\D6Ð£\A8\D0Þ¸Äº\CD\D3\D0Ô´\B4\FA\C2\EB\D1\DC\C9\FA\B5Ä´\FA\C2\EB\D6Ð£\A9\D0\E8Òª\B4\F8\D3\D0Ô­\C0\B4\B4\FA\C2\EB\D6Ðµ\C4Ð­\D2é£¬\C9Ì±ê£¬
+     ×¨\C0\FB\C9\F9\C3\F7\BA\CD\C6\E4\CB\FBÔ­\C0\B4\D7\F7\D5ß¹æ¶¨\D0\E8Òª\B0\FC\BA\AC\B5\C4Ëµ\C3\F7\A1\A3
+   4.\C8\E7\B9\FB\D4Ù·\A2\B2\BC\B5Ä²\FAÆ·\D6Ð°\FC\BA\ACÒ»\B8\F6Notice\CEÄ¼\FE\A3\AC\D4\F2\D4\DANotice\CEÄ¼\FE\D6\D0\D0\E8Òª\B4\F8\D3\D0 Apache Licence\A1\A3
+     \C4\E3\BF\C9\D2\D4\D4\DANotice\D6\D0\D4\F6\BC\D3\D7Ô¼\BA\B5\C4\D0\ED\BFÉ£\AC\B5\AB\B2\BB\BF\C9\D2Ô±\ED\CF\D6Îª\B6\D4Apache Licence\B9\B9\B3É¸\FC\B8Ä¡\A3
